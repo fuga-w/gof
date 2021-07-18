@@ -1,1 +1,1 @@
-GOF design pattern　written in dart
+GOF design pattern written in dart
