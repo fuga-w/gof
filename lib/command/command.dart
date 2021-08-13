@@ -36,9 +36,3 @@ class MacroCommand extends Command {
     );
   }
 }
-
-class PaintCommand extends Command {
-  final Offset _point;
-
-  PaintCommand
-}
